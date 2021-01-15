@@ -1,4 +1,4 @@
-class Delta < Formula
+class Toolset < Formula
     desc "chenyungui's toolset"
     homepage "https://github.com/chenyunguiMilook"
     url "https://xal.apuscn.com/services/gods/api/v1/download_app_file/Toolset-0.5.0.tar.gz"
@@ -11,6 +11,6 @@ class Delta < Formula
     end
   
     test do
-      system "#{bin}/Toolset", "--version"
+      system "#{bin}/Toolset", "-h"
     end
   end
