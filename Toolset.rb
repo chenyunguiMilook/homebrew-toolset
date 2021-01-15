@@ -7,10 +7,10 @@ class Delta < Formula
     bottle :unneeded
   
     def install
-      bin.install "toolset"
+      bin.install "Toolset"
     end
   
     test do
-      system "#{bin}/toolset", "--version"
+      system "#{bin}/Toolset", "--version"
     end
   end
