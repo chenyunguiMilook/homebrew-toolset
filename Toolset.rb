@@ -1,8 +1,8 @@
 class Toolset < Formula
     desc "chenyungui's toolset"
     homepage "https://github.com/chenyunguiMilook"
-    url "https://github.com/chenyunguiMilook/homebrew-toolset/releases/download/0.6.28/Toolset-0.6.28.tar.gz"
-    sha256 "7d21f0d8957fc117b081c929ccc48a8b2ded6d895f0634b2cd92532c7d2009de"
+    url "https://github.com/chenyunguiMilook/homebrew-toolset/releases/download/0.6.29/Toolset-0.6.29.tar.gz"
+    sha256 "32711d299f3b8029a41a95145a972c5fa0e86979b731236d826d3197298e18a4"
   
     bottle :unneeded
   
